@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Sigurno?",
+    "Sigurno sigurno??",
+    "Da li si sto posto sigurna?",
+    "Molim te ljubavii...",
+    "MOLIM TEEE!",
+    "Ako opet kazes ne bicu jako tuzan",
+    "Jako jako tuzan",
+    "Jako jako jako tuzan",
+    "Oke prestacu da te smaram",
+    "Salim se, reci da molim te ❤️"
 ];
 
 let messageIndex = 0;
