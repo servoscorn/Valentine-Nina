@@ -6,7 +6,7 @@ const messages = [
     "MOLIM TEEE!",
     "Ako opet kazes ne bicu jako tuzan",
     "Jako jako tuzan",
-    "Jako jako jako tuzan",
+    "Samo reci da 😡",
     "Oke prestacu da te smaram",
     "Salim se, reci da molim te ❤️"
 ];
